@@ -1,3 +1,5 @@
+# Run python speech.py to play Wikibear!
+
 RAKE
 ====
 
